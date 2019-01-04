@@ -57,7 +57,7 @@ background: transparent;
     font-size: 12px;
 }
 /* styling the submit button */
-.box input[type="submit"]
+.box button[type="submit"]
 {
     background: transparent;
     border:none;
