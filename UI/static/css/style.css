@@ -157,7 +157,7 @@ color:#ffffff;
 #newsletter{
     padding: 15px;
     color:white;
-    background:#777b7e;
+    background:rgb(26, 24, 24);
     line-height: 20%;
   }
 #newsletter h1{
@@ -181,8 +181,8 @@ color:#ffffff;
     padding: 20px;
   }
   
-  /* Clearfix (clear floats) */
-  .row::after {
+/* Clearfix (clear floats) */
+.row::after {
     content: "";
     clear: both;
     display: table;
@@ -196,5 +196,20 @@ footer{
    height:40px;   /* Height of the footer */
    background:#35424a;
    text-align: center;
-
 }
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 320px;
+    height: 10%;
+    padding: 2px;
+}
+ .question{
+     margin:3% 5% 0 5%;
+     
+     }
+
