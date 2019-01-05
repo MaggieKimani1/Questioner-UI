@@ -196,6 +196,7 @@ footer{
    height:40px;   /* Height of the footer */
    background:#35424a;
    text-align: center;
+   position: fixed;
 }
 
 .container .content {
@@ -210,6 +211,9 @@ footer{
 }
  .question{
      margin:3% 5% 0 5%;
-     
      }
+/* .question .btn1{
+    margin-left: 5px;
+    margin-bottom:10px;
+} */
 
