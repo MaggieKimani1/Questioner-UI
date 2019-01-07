@@ -252,4 +252,30 @@
 
  .container1 p {
  	color: black;
+
+ }
+
+ .card .container h1,
+ h2 {
+ 	color: black;
+ 	text-align: center;
+
+ }
+
+ .img {
+ 	float: left
+ }
+
+ .container .profile {
+ 	text-align: center;
+
+ }
+
+ .container .profile h1,
+ p {
+ 	color: black;
+ }
+
+ .sh2 {
+ 	float: right;
  }
