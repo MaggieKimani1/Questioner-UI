@@ -36,21 +36,11 @@ Clone this repository to your working folder on your computer
 
 ## Pivotal Tracker Board
 
-`https://www.pivotaltracker.com/n/projects/2235145`
+- https://www.pivotaltracker.com/n/projects/2235145`
 
 ## Hosting Link
 
-`https://maggiekimani1.github.io/Questioner-UI/UI/templates/index.html`
-
-## Relevant Links
-
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/homepage.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/adminlogin.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/login.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/admin.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/meetup.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/newmeetup.html
-- https://maggiekimani1.github.io/Questioner-UI/UI/templates/profile.html
+- https://maggiekimani1.github.io/Questioner-UI/UI/templates/index.html`
 
 ## Author
 
